@@ -32,7 +32,7 @@
         "APP_ENV": "production",
         "APP_KEY": "base64:bJwwsLxptOR1JIGm2dE78J16/YpYqAuY+XdqBgBgqDQ=",
         "APP_DEBUG": "true",
-        "APP_URL": "https://prepas-concours.vercel.app",
+        "APP_URL": "https://prepas-concours-bf.vercel.app",
 
         "DB_CONNECTION": "sqlite",
 
