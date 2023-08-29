@@ -1,9 +1,10 @@
 {
-    "regions": [
-        "hnd1"
-    ],
+    "public": false,
+    "outputDirectory": "public",
+    "framework": "vite",
+    "regions": ["hnd1"],
     "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.5.2" }
+        "api/index.php": { "runtime": "vercel-php@0.6.0" }
     },
     "routes": [
         {
